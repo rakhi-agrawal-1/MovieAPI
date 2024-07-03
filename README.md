@@ -1,1 +1,1 @@
-# MovieAPI
+My application leverages MongoDB for robust database management, Java and Spring Boot for efficient backend operations, and React for a dynamic and responsive frontend interface. Users can seamlessly view trailers for our curated collection of movies and contribute reviews to enhance the experience.
